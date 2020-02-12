@@ -1,0 +1,15 @@
+{
+  "name": "fluent-logs",
+  "version": "0.1.0",
+  "description": "Basic fluent logging interface for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Lanning <blanning@all-mode.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebMatrixware/fluent-logs"
+  }
+}
